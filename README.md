@@ -11,9 +11,11 @@ Diese Info hätten wir gern in strukturierter Form, also einer Tabelle. Das ist 
 ## Das Skript
 
 Das Skript zählt immer die Wörter "Ei" und "Eier" wenn sie in einem bestimmten Kontext vorkommen:
-`zahl` `Ei/er` `an` oder `für` wird als abgegebenes Ei gezählt
-`zahl` `Ei/er` `mitgenommen` wird gar nicht gezählt
-`zahl` `Ei/er` wird als gelegte Eier gezählt.
+
+* `zahl` `Ei/er` `an` oder `für` wird als abgegebenes Ei gezählt 
+* `zahl` `Ei/er` `mitgenommen` wird gar nicht gezählt
+
+* `zahl` `Ei/er` wird als gelegte Eier gezählt.
 
 `zahl` kann eine Nummer oder das ausgeschriebene wort sein.
 
