@@ -1,0 +1,41 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime files
+*.nbconvert.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Private data
+private/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.db
+
+
+# Secrets
+*.key
+*.pem
+*.env
+secrets.*
